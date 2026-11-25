@@ -1,0 +1,6 @@
+{
+  "name": "WebGIS UMKM Pangkalpinang",
+  "description": "Aplikasi Web GIS pemetaan lokasi UMKM kuliner Kota Pangkalpinang berbasis Express.js, React, Tailwind CSS, dan database spasial MySQL/SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

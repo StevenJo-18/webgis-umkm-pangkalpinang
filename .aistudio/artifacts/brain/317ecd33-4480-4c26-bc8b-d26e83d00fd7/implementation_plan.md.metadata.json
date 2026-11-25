@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana implementasi final Web GIS Lokasi UMKM Kuliner Kota Pangkalpinang berdasarkan pilihan pengguna: peta Leaflet OpenStreetMap, Repository MySQL + SQLite otomatis via Express.js, fitur Login/Register, ulasan user, CRUD admin dengan pemilih koordinat peta, serta tampilan GIS terang modern bernuansa kuliner hangat.",
+  "updatedAt": "2026-11-18T01:02:46.361897182Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
